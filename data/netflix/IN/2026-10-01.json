@@ -1,0 +1,37 @@
+{
+  "service": "netflix",
+  "region": "IN",
+  "currency": "INR",
+  "scraped_at": "2026-10-01T16:25:17.653626+00:00",
+  "url": "https://help.netflix.com/en/node/24926?q=netflix%20plans",
+  "plans": [
+    {
+      "plan_name": "Mobile",
+      "features": "Unlimited ad-free movies, TV shows, and games | Watch on 1 phone or tablet at a time | Watch in 480p (SD) | Download | on 1 phone or tablet at a time",
+      "price_raw": "₹149",
+      "price_value": 149.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "Basic",
+      "features": "Unlimited ad-free movies, TV shows, and games | Watch on 1 | supported device | at a time | Watch in 720p (HD) | Download | on 1 supported device at a time",
+      "price_raw": "₹199",
+      "price_value": 199.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "Standard",
+      "features": "Unlimited ad-free movies, TV shows, and games | Watch on 2 | supported devices | at a time | Watch in 1080p (Full HD) | Download | on 2 supported devices at a time",
+      "price_raw": "₹499",
+      "price_value": 499.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "Premium",
+      "features": "Unlimited ad-free movies, TV shows, and games | Watch on 4 | supported devices | at a time | Watch in 4K (Ultra HD) + HDR | Download | on 6 supported devices at a time | Netflix spatial audio",
+      "price_raw": "₹649",
+      "price_value": 649.0,
+      "currency": "INR"
+    }
+  ]
+}
