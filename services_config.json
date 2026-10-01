@@ -22,5 +22,19 @@
     "country": "United States",
     "currency": "USD",
     "method": "icloud_table"
+  },
+  "apple_music_IN": {
+    "service": "apple_music",
+    "url": "https://www.apple.com/in/apple-music/",
+    "region": "IN",
+    "currency": "INR",
+    "method": "apple_music"
+  },
+  "apple_music_US": {
+    "service": "apple_music",
+    "url": "https://www.apple.com/apple-music/",
+    "region": "US",
+    "currency": "USD",
+    "method": "apple_music"
   }
 }

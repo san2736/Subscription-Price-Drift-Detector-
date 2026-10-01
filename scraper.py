@@ -51,41 +51,42 @@ def scrape_simple_selector(soup, config):
 # ---------- ADD YOUR STRATEGY FUNCTIONS HERE (same shape: soup, config -> list of plans) ----------
 
 # ---------- iCloud+: country rows in Apple's pricing tables ----------
-def scrape_icloud_table(soup, config):
-    country = config['country']                      # e.g. "India" or "United States"
-    for table in soup.find_all('table'):
-        rows = table.find_all('tr')
-        if not rows:
+def scrape_apple_music(soup, config):
+    plans = []
+    for headline in soup.select('p.tile-headline'):
+        text = " ".join(headline.get_text().split())        # collapse the messy whitespace
+        match = re.search(r'([₹$])\s*([\d,]+(?:\.\d+)?)\s*/\s*mo', text)
+        if not match:
             continue
-        # Header row: "Country (Currency)", "50 GB", "200 GB", "2 TB", "6 TB", "12 TB"
-        tiers = [c.get_text(strip=True) for c in rows[0].find_all(['th', 'td'])][1:]
-        for row in rows[1:]:
-            cells = row.find_all(['th', 'td'])
-            name = cells[0].get_text(strip=True)     # e.g. "India³ (INR)"
-            # match the country name exactly, ignoring footnote marks like ³
-            if not re.match(rf'^{re.escape(country)}[^A-Za-z]', name + " "):
+        card = headline.find_parent()
+        parts = [p for p in card.get_text("|", strip=True).split("|") if p.strip()]
+        plan_name = parts[0].strip()                          # "Individual", "Family", "Student"
+        # features = the bullet lines after the price, up to "Try it free"
+        features = []
+        for p in parts[2:]:
+            if "Try it free" in p:
+                break
+            if "subscribers" in p.lower():      # skip promo text like "first month free..."
                 continue
-            plans = []
-            for tier, cell in zip(tiers, cells[1:]):
-                price_text = cell.get_text(strip=True)   # e.g. "Rs 75"
-                size = parse_price(tier)                 # 50, 200, 2, 6, 12
-                storage_gb = size * 1000 if "TB" in tier else size
-                plans.append({
-                    "plan_name": f"iCloud+ {tier}",
-                    "features": tier,
-                    "storage_gb": storage_gb,
-                    "price_raw": price_text,
-                    "price_value": parse_price(price_text),
-                    "currency": config['currency']
-                })
-            return plans
-    raise ValueError(f"country '{country}' not found in any pricing table")
+            features.append(" ".join(p.split()))
+        price_raw = match.group(1) + match.group(2)
+        plans.append({
+            "plan_name": plan_name,
+            "features": " | ".join(features),
+            "price_raw": price_raw,
+            "price_value": parse_price(price_raw),
+            "currency": config['currency']
+        })
+    if not plans:
+        raise ValueError("no Apple Music plan cards found - page layout may have changed")
+    return plans
 # Register every strategy here
 STRATEGIES = {
     "table_plus_list": scrape_table_plus_list,
     "simple_selector": scrape_simple_selector,
-    "icloud_table": scrape_icloud_table,
+    "apple_music": scrape_apple_music,
 }
+
 
 
 # ADDED: one price parser for everyone, works for ₹ and $ ("₹1,499" -> 1499.0, "$10.99" -> 10.99)
