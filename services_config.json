@@ -36,5 +36,12 @@
     "region": "US",
     "currency": "USD",
     "method": "apple_music"
+  },
+  "dropbox_US": {
+    "service": "dropbox",
+    "url": "https://www.dropbox.com/plans",
+    "region": "US",
+    "currency": "USD",
+    "method": "dropbox"
   }
 }
