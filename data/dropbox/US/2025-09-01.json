@@ -1,0 +1,44 @@
+{
+  "service": "dropbox",
+  "region": "US",
+  "currency": "USD",
+  "scraped_at": "2025-09-01T00:00:00+00:00",
+  "url": "https://www.dropbox.com/plans",
+  "source": "wayback",
+  "archive_url": "https://web.archive.org/web/20250901140444id_/https://www.dropbox.com/plans",
+  "parsed_with": "strategy",
+  "plans": [
+    {
+      "plan_name": "Plus",
+      "features": "single user",
+      "storage_gb": 2000.0,
+      "price_raw": "$9.99 / month",
+      "price_value": 9.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Professional",
+      "features": "single user",
+      "storage_gb": 3000.0,
+      "price_raw": "$16.58 / month",
+      "price_value": 16.58,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Standard",
+      "features": "single user",
+      "storage_gb": null,
+      "price_raw": "$15",
+      "price_value": 15.0,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Advanced",
+      "features": "single user",
+      "storage_gb": null,
+      "price_raw": "$24",
+      "price_value": 24.0,
+      "currency": "USD"
+    }
+  ]
+}

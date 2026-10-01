@@ -1,0 +1,33 @@
+{
+  "service": "apple_music",
+  "region": "US",
+  "currency": "USD",
+  "scraped_at": "2026-01-01T00:00:00+00:00",
+  "url": "https://www.apple.com/apple-music/",
+  "source": "wayback",
+  "archive_url": "https://web.archive.org/web/20260101134223id_/https://www.apple.com/apple-music/",
+  "parsed_with": "strategy",
+  "plans": [
+    {
+      "plan_name": "Individual",
+      "features": "* | Over 100 million songs, ad‑free and available to download for offline listening | Spatial Audio and lossless audio quality | Exclusive artist access and curated playlists | Free access to the Apple Music Classical app | Works on iOS, Android, Windows, Sonos, smart TVs, and more | Get started",
+      "price_raw": "$10.99",
+      "price_value": 10.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Student",
+      "features": "3 | Special pricing for verified students | Access to everything in the Individual Plan | Comes with Apple TV+ | at no extra cost | Get started",
+      "price_raw": "$5.99",
+      "price_value": 5.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Family",
+      "features": "4 | Access to everything in the Individual Plan | Share with up to five people via Family Sharing | Each person gets their own library, recommendations, and playlists | Get started",
+      "price_raw": "$16.99",
+      "price_value": 16.99,
+      "currency": "USD"
+    }
+  ]
+}

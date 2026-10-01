@@ -1,0 +1,54 @@
+{
+  "service": "icloud",
+  "region": "US",
+  "currency": "USD",
+  "scraped_at": "2026-07-01T00:00:00+00:00",
+  "url": "https://support.apple.com/en-in/108047",
+  "source": "documented",
+  "sources": [
+    "https://www.digit.in/news/mobile-phones/apples-icloud-storage-plans-will-cost-you-18-more-thanks-to-gst-36096.html",
+    "https://www.gsmarena.com/apple_raises_icloud_pricing_in_the_uk_parts_of_europe_asia_and_the_americas-news-58989.php"
+  ],
+  "plans": [
+    {
+      "plan_name": "iCloud+ 50 GB",
+      "features": "50 GB",
+      "storage_gb": 50.0,
+      "price_raw": "$0.99",
+      "price_value": 0.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "iCloud+ 200 GB",
+      "features": "200 GB",
+      "storage_gb": 200.0,
+      "price_raw": "$2.99",
+      "price_value": 2.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "iCloud+ 2 TB",
+      "features": "2 TB",
+      "storage_gb": 2000.0,
+      "price_raw": "$9.99",
+      "price_value": 9.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "iCloud+ 6 TB",
+      "features": "6 TB",
+      "storage_gb": 6000.0,
+      "price_raw": "$29.99",
+      "price_value": 29.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "iCloud+ 12 TB",
+      "features": "12 TB",
+      "storage_gb": 12000.0,
+      "price_raw": "$59.99",
+      "price_value": 59.99,
+      "currency": "USD"
+    }
+  ]
+}

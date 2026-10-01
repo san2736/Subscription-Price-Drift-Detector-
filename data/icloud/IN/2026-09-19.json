@@ -1,0 +1,51 @@
+{
+  "service": "icloud",
+  "region": "IN",
+  "currency": "INR",
+  "scraped_at": "2026-09-19T00:00:00+00:00",
+  "url": "https://support.apple.com/en-in/108047",
+  "source": "wayback",
+  "archive_url": "https://web.archive.org/web/20260919232554id_/https://support.apple.com/en-in/108047",
+  "plans": [
+    {
+      "plan_name": "iCloud+ 50 GB",
+      "features": "50 GB",
+      "storage_gb": 50.0,
+      "price_raw": "Rs 75",
+      "price_value": 75.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 200 GB",
+      "features": "200 GB",
+      "storage_gb": 200.0,
+      "price_raw": "Rs 219",
+      "price_value": 219.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 2 TB",
+      "features": "2 TB",
+      "storage_gb": 2000.0,
+      "price_raw": "Rs 749",
+      "price_value": 749.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 6 TB",
+      "features": "6 TB",
+      "storage_gb": 6000.0,
+      "price_raw": "Rs 2999",
+      "price_value": 2999.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 12 TB",
+      "features": "12 TB",
+      "storage_gb": 12000.0,
+      "price_raw": "Rs 5900",
+      "price_value": 5900.0,
+      "currency": "INR"
+    }
+  ]
+}

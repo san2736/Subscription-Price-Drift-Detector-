@@ -1,0 +1,44 @@
+{
+  "service": "dropbox",
+  "region": "US",
+  "currency": "USD",
+  "scraped_at": "2024-10-06T00:00:00+00:00",
+  "url": "https://www.dropbox.com/plans",
+  "source": "wayback",
+  "archive_url": "https://web.archive.org/web/20241006225132id_/https://www.dropbox.com/plans",
+  "parsed_with": "strategy",
+  "plans": [
+    {
+      "plan_name": "Plus",
+      "features": "single user",
+      "storage_gb": 2000.0,
+      "price_raw": "CA$12.99 / month",
+      "price_value": 12.99,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Essentials",
+      "features": "single user",
+      "storage_gb": 3000.0,
+      "price_raw": "CA$23.25 / month",
+      "price_value": 23.25,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Business",
+      "features": "per user",
+      "storage_gb": 9000.0,
+      "price_raw": "CA$21 / user / month",
+      "price_value": 21.0,
+      "currency": "USD"
+    },
+    {
+      "plan_name": "Business Plus",
+      "features": "per user",
+      "storage_gb": 15000.0,
+      "price_raw": "CA$33 / user / month",
+      "price_value": 33.0,
+      "currency": "USD"
+    }
+  ]
+}

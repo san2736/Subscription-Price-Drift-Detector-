@@ -1,0 +1,54 @@
+{
+  "service": "icloud",
+  "region": "IN",
+  "currency": "INR",
+  "scraped_at": "2025-01-01T00:00:00+00:00",
+  "url": "https://support.apple.com/en-in/108047",
+  "source": "documented",
+  "sources": [
+    "https://www.digit.in/news/mobile-phones/apples-icloud-storage-plans-will-cost-you-18-more-thanks-to-gst-36096.html",
+    "https://www.gsmarena.com/apple_raises_icloud_pricing_in_the_uk_parts_of_europe_asia_and_the_americas-news-58989.php"
+  ],
+  "plans": [
+    {
+      "plan_name": "iCloud+ 50 GB",
+      "features": "50 GB",
+      "storage_gb": 50.0,
+      "price_raw": "Rs 75",
+      "price_value": 75.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 200 GB",
+      "features": "200 GB",
+      "storage_gb": 200.0,
+      "price_raw": "Rs 219",
+      "price_value": 219.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 2 TB",
+      "features": "2 TB",
+      "storage_gb": 2000.0,
+      "price_raw": "Rs 749",
+      "price_value": 749.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 6 TB",
+      "features": "6 TB",
+      "storage_gb": 6000.0,
+      "price_raw": "Rs 2999",
+      "price_value": 2999.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "iCloud+ 12 TB",
+      "features": "12 TB",
+      "storage_gb": 12000.0,
+      "price_raw": "Rs 5900",
+      "price_value": 5900.0,
+      "currency": "INR"
+    }
+  ]
+}

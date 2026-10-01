@@ -1,0 +1,33 @@
+{
+  "service": "apple_music",
+  "region": "IN",
+  "currency": "INR",
+  "scraped_at": "2025-09-02T00:00:00+00:00",
+  "url": "https://www.apple.com/in/apple-music/",
+  "source": "wayback",
+  "archive_url": "https://web.archive.org/web/20250902050706id_/https://www.apple.com/in/apple-music/",
+  "parsed_with": "fallback",
+  "plans": [
+    {
+      "plan_name": "Individual",
+      "features": "",
+      "price_raw": "₹119",
+      "price_value": 119.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "Family",
+      "features": "",
+      "price_raw": "₹179",
+      "price_value": 179.0,
+      "currency": "INR"
+    },
+    {
+      "plan_name": "Student",
+      "features": "",
+      "price_raw": "₹59",
+      "price_value": 59.0,
+      "currency": "INR"
+    }
+  ]
+}
