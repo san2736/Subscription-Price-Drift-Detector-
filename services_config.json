@@ -6,5 +6,21 @@
     "method": "table_plus_list",
     "table_index": 0,
     "price_heading_regex": "Pricing\\s*\\(Indian Rupee\\)"
+  },
+  "icloud_IN": {
+    "service": "icloud",
+    "url": "https://support.apple.com/en-in/108047",
+    "region": "IN",
+    "country": "India",
+    "currency": "INR",
+    "method": "icloud_table"
+  },
+  "icloud_US": {
+    "service": "icloud",
+    "url": "https://support.apple.com/en-in/108047",
+    "region": "US",
+    "country": "United States",
+    "currency": "USD",
+    "method": "icloud_table"
   }
 }
