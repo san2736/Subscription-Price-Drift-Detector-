@@ -1,0 +1,10 @@
+{
+  "netflix": {
+    "url": "https://help.netflix.com/en/node/24926?q=netflix%20plans",
+    "region": "IN",
+    "currency": "INR",
+    "method": "table_plus_list",
+    "table_index": 0,
+    "price_heading_regex": "Pricing\\s*\\(Indian Rupee\\)"
+  }
+}
