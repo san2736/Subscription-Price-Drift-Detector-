@@ -1,0 +1,209 @@
+[
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-04-24",
+    "plan":"Basic",
+    "price_raw":"$5.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200424095946id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":5.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-18",
+    "plan":"Basic",
+    "price_raw":"\u20b9 125.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200518160125id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":125.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-04-24",
+    "plan":"Business Basic",
+    "price_raw":"$5.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200424095946id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":5.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-18",
+    "plan":"Business Basic",
+    "price_raw":"\u20b9 125.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200518160125id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":125.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-04-24",
+    "plan":"Business Premium",
+    "price_raw":"$5.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200424095946id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":5.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-18",
+    "plan":"Business Premium",
+    "price_raw":"\u20b9 125.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200518160125id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":125.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-04-24",
+    "plan":"Business Standard",
+    "price_raw":"$5.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200424095946id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":5.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-18",
+    "plan":"Business Standard",
+    "price_raw":"\u20b9 125.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200518160125id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":125.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-04-24",
+    "plan":"Family",
+    "price_raw":"$99.99",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200424095946id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":99.99
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-18",
+    "plan":"Family",
+    "price_raw":"\u20b9 5,299.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200518160125id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":5299.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-10-31",
+    "plan":"Family",
+    "price_raw":"\u20b9 4,199.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20201031173947id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4199.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2021-03-09",
+    "plan":"Family",
+    "price_raw":"\u20b9 4,199.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20210309005611id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4199.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2021-04-21",
+    "plan":"Family",
+    "price_raw":"\u20b9 4,899.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20210421031339id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4899.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2021-11-29",
+    "plan":"Family",
+    "price_raw":"\u20b9 4,899.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20211129095554id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4899.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-04-24",
+    "plan":"Personal",
+    "price_raw":"$99.99",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200424095946id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":99.99
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-05",
+    "plan":"Personal",
+    "price_raw":"$69.99",
+    "source_page":"https:\/\/www.microsoft.com\/en-us\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200505150710id_\/https:\/\/www.microsoft.com\/en-us\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":69.99
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-05-18",
+    "plan":"Personal",
+    "price_raw":"\u20b9 5,299.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20200518160125id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/compare-all-microsoft-365-products",
+    "price_num":5299.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2020-10-31",
+    "plan":"Personal",
+    "price_raw":"\u20b9 4,199.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20201031173947id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4199.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2021-03-09",
+    "plan":"Personal",
+    "price_raw":"\u20b9 4,199.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20210309005611id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4199.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2021-04-21",
+    "plan":"Personal",
+    "price_raw":"\u20b9 4,899.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20210421031339id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4899.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2021-11-29",
+    "plan":"Personal",
+    "price_raw":"\u20b9 4,899.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20211129095554id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4899.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2022-05-17",
+    "plan":"Personal",
+    "price_raw":"\u20b9 4,899.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20220517102431id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4899.0
+  },
+  {
+    "service":"microsoft365",
+    "snapshot_date":"2022-07-01",
+    "plan":"Personal",
+    "price_raw":"\u20b9 4,899.00",
+    "source_page":"https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "snapshot_url":"https:\/\/web.archive.org\/web\/20220701080927id_\/https:\/\/www.microsoft.com\/en-in\/microsoft-365\/p\/microsoft-365-personal\/cfq7ttc0k5bf",
+    "price_num":4899.0
+  }
+]
