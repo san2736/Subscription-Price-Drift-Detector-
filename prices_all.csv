@@ -1,0 +1,182 @@
+service,snapshot_date,plan,price_raw,source_page,snapshot_url,price_num
+googleone,2020-01-01,100 GB,€1,https://one.google.com/about,https://web.archive.org/web/20200101123436id_/https://one.google.com/about,1.0
+googleone,2020-07-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20200701201720id_/https://one.google.com/about,1.99
+googleone,2020-11-18,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20201118204453id_/https://one.google.com/about/plans,1.99
+googleone,2021-01-06,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20210106201306id_/https://one.google.com/about/plans,1.99
+googleone,2021-04-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20210401023542id_/https://one.google.com/about/plans,1.99
+googleone,2021-04-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20210401010705id_/https://one.google.com/about,1.99
+googleone,2021-07-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20210701040134id_/https://one.google.com/about/plans,1.99
+googleone,2021-07-01,100 GB,€1.99,https://one.google.com/about,https://web.archive.org/web/20210701002117id_/https://one.google.com/about,1.99
+googleone,2021-10-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20211001073639id_/https://one.google.com/about,1.99
+googleone,2021-10-02,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20211002014814id_/https://one.google.com/about/plans,1.99
+googleone,2022-01-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20220101235146id_/https://one.google.com/about/plans,1.99
+googleone,2022-01-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20220101011239id_/https://one.google.com/about,1.99
+googleone,2022-04-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20220401002221id_/https://one.google.com/about,1.99
+googleone,2022-04-02,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20220402005455id_/https://one.google.com/about/plans,1.99
+googleone,2022-07-01,100 GB,€1.99,https://one.google.com/about/plans,https://web.archive.org/web/20220701032645id_/https://one.google.com/about/plans,1.99
+googleone,2022-07-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20220701013434id_/https://one.google.com/about,1.99
+googleone,2022-10-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20221001182625id_/https://one.google.com/about/plans,1.99
+googleone,2022-10-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20221001010429id_/https://one.google.com/about,1.99
+googleone,2023-01-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20230101020259id_/https://one.google.com/about,1.99
+googleone,2023-01-05,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20230105105720id_/https://one.google.com/about/plans,1.99
+googleone,2023-04-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20230401014613id_/https://one.google.com/about,1.99
+googleone,2023-04-02,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20230402185951id_/https://one.google.com/about/plans,1.99
+googleone,2023-07-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20230701002107id_/https://one.google.com/about,1.99
+googleone,2023-07-14,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20230714095418id_/https://one.google.com/about/plans,1.99
+googleone,2023-10-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20231001011751id_/https://one.google.com/about,1.99
+googleone,2023-10-04,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20231004035300id_/https://one.google.com/about/plans,1.99
+googleone,2024-01-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20240101182346id_/https://one.google.com/about/plans,1.99
+googleone,2024-01-01,100 GB,$1.99,https://one.google.com/about,https://web.archive.org/web/20240101003030id_/https://one.google.com/about,1.99
+googleone,2024-07-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20240701051335id_/https://one.google.com/about/plans,1.99
+googleone,2024-10-01,100 GB,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20241001030605id_/https://one.google.com/about/plans,1.99
+googleone,2026-03-25,100 GB,$1.99,https://one.google.com/about/plans?hl=en-IN,https://web.archive.org/web/20260325113903id_/https://one.google.com/about/plans?hl=en-IN,1.99
+googleone,2020-01-01,2 TB,€9.99,https://one.google.com/about,https://web.archive.org/web/20200101123436id_/https://one.google.com/about,9.99
+googleone,2020-07-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20200701201720id_/https://one.google.com/about,9.99
+googleone,2020-11-18,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20201118204453id_/https://one.google.com/about/plans,9.99
+googleone,2021-01-06,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20210106201306id_/https://one.google.com/about/plans,9.99
+googleone,2021-04-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20210401023542id_/https://one.google.com/about/plans,9.99
+googleone,2021-04-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20210401010705id_/https://one.google.com/about,9.99
+googleone,2021-07-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20210701040134id_/https://one.google.com/about/plans,9.99
+googleone,2021-07-01,2 TB,€9.99,https://one.google.com/about,https://web.archive.org/web/20210701002117id_/https://one.google.com/about,9.99
+googleone,2021-10-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20211001073639id_/https://one.google.com/about,9.99
+googleone,2021-10-02,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20211002014814id_/https://one.google.com/about/plans,9.99
+googleone,2022-01-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20220101235146id_/https://one.google.com/about/plans,9.99
+googleone,2022-01-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20220101011239id_/https://one.google.com/about,9.99
+googleone,2022-04-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20220401002221id_/https://one.google.com/about,9.99
+googleone,2022-04-02,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20220402005455id_/https://one.google.com/about/plans,9.99
+googleone,2022-07-01,2 TB,€9.99,https://one.google.com/about/plans,https://web.archive.org/web/20220701032645id_/https://one.google.com/about/plans,9.99
+googleone,2022-07-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20220701013434id_/https://one.google.com/about,9.99
+googleone,2022-10-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20221001182625id_/https://one.google.com/about/plans,9.99
+googleone,2022-10-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20221001010429id_/https://one.google.com/about,9.99
+googleone,2023-01-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20230101020259id_/https://one.google.com/about,9.99
+googleone,2023-01-05,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20230105105720id_/https://one.google.com/about/plans,9.99
+googleone,2023-04-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20230401014613id_/https://one.google.com/about,9.99
+googleone,2023-04-02,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20230402185951id_/https://one.google.com/about/plans,9.99
+googleone,2023-07-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20230701002107id_/https://one.google.com/about,9.99
+googleone,2023-07-14,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20230714095418id_/https://one.google.com/about/plans,9.99
+googleone,2023-10-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20231001011751id_/https://one.google.com/about,9.99
+googleone,2023-10-04,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20231004035300id_/https://one.google.com/about/plans,9.99
+googleone,2024-01-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20240101182346id_/https://one.google.com/about/plans,9.99
+googleone,2024-01-01,2 TB,$9.99,https://one.google.com/about,https://web.archive.org/web/20240101003030id_/https://one.google.com/about,9.99
+googleone,2024-07-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20240701051335id_/https://one.google.com/about/plans,9.99
+googleone,2024-10-01,2 TB,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20241001030605id_/https://one.google.com/about/plans,9.99
+googleone,2026-03-25,2 TB,$9.99,https://one.google.com/about/plans?hl=en-IN,https://web.archive.org/web/20260325113903id_/https://one.google.com/about/plans?hl=en-IN,9.99
+googleone,2020-01-01,200 GB,€2.99,https://one.google.com/about,https://web.archive.org/web/20200101123436id_/https://one.google.com/about,2.99
+googleone,2020-07-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20200701201720id_/https://one.google.com/about,2.99
+googleone,2020-11-18,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20201118204453id_/https://one.google.com/about/plans,2.99
+googleone,2021-01-06,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20210106201306id_/https://one.google.com/about/plans,2.99
+googleone,2021-04-01,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20210401023542id_/https://one.google.com/about/plans,2.99
+googleone,2021-04-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20210401010705id_/https://one.google.com/about,2.99
+googleone,2021-07-01,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20210701040134id_/https://one.google.com/about/plans,2.99
+googleone,2021-07-01,200 GB,€2.99,https://one.google.com/about,https://web.archive.org/web/20210701002117id_/https://one.google.com/about,2.99
+googleone,2021-10-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20211001073639id_/https://one.google.com/about,2.99
+googleone,2021-10-02,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20211002014814id_/https://one.google.com/about/plans,2.99
+googleone,2022-01-01,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20220101235146id_/https://one.google.com/about/plans,2.99
+googleone,2022-01-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20220101011239id_/https://one.google.com/about,2.99
+googleone,2022-04-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20220401002221id_/https://one.google.com/about,2.99
+googleone,2022-04-02,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20220402005455id_/https://one.google.com/about/plans,2.99
+googleone,2022-07-01,200 GB,€2.99,https://one.google.com/about/plans,https://web.archive.org/web/20220701032645id_/https://one.google.com/about/plans,2.99
+googleone,2022-07-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20220701013434id_/https://one.google.com/about,2.99
+googleone,2022-10-01,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20221001182625id_/https://one.google.com/about/plans,2.99
+googleone,2022-10-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20221001010429id_/https://one.google.com/about,2.99
+googleone,2023-01-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20230101020259id_/https://one.google.com/about,2.99
+googleone,2023-01-05,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20230105105720id_/https://one.google.com/about/plans,2.99
+googleone,2023-04-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20230401014613id_/https://one.google.com/about,2.99
+googleone,2023-04-02,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20230402185951id_/https://one.google.com/about/plans,2.99
+googleone,2023-07-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20230701002107id_/https://one.google.com/about,2.99
+googleone,2023-07-14,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20230714095418id_/https://one.google.com/about/plans,2.99
+googleone,2023-10-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20231001011751id_/https://one.google.com/about,2.99
+googleone,2023-10-04,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20231004035300id_/https://one.google.com/about/plans,2.99
+googleone,2024-01-01,200 GB,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20240101182346id_/https://one.google.com/about/plans,2.99
+googleone,2024-01-01,200 GB,$2.99,https://one.google.com/about,https://web.archive.org/web/20240101003030id_/https://one.google.com/about,2.99
+googleone,2024-07-01,AI Premium,$19.99,https://one.google.com/about/plans,https://web.archive.org/web/20240701051335id_/https://one.google.com/about/plans,19.99
+googleone,2024-10-01,AI Premium,$19.99,https://one.google.com/about/plans,https://web.archive.org/web/20241001030605id_/https://one.google.com/about/plans,19.99
+googleone,2021-10-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20211001073639id_/https://one.google.com/about,1.99
+googleone,2021-10-02,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20211002014814id_/https://one.google.com/about/plans,1.99
+googleone,2022-01-01,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20220101235146id_/https://one.google.com/about/plans,1.99
+googleone,2022-01-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20220101011239id_/https://one.google.com/about,1.99
+googleone,2022-04-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20220401002221id_/https://one.google.com/about,1.99
+googleone,2022-04-02,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20220402005455id_/https://one.google.com/about/plans,1.99
+googleone,2022-07-01,Basic,€1.99,https://one.google.com/about/plans,https://web.archive.org/web/20220701032645id_/https://one.google.com/about/plans,1.99
+googleone,2022-07-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20220701013434id_/https://one.google.com/about,1.99
+googleone,2022-10-01,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20221001182625id_/https://one.google.com/about/plans,1.99
+googleone,2022-10-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20221001010429id_/https://one.google.com/about,1.99
+googleone,2023-01-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20230101020259id_/https://one.google.com/about,1.99
+googleone,2023-01-05,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20230105105720id_/https://one.google.com/about/plans,1.99
+googleone,2023-04-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20230401014613id_/https://one.google.com/about,1.99
+googleone,2023-04-02,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20230402185951id_/https://one.google.com/about/plans,1.99
+googleone,2023-07-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20230701002107id_/https://one.google.com/about,1.99
+googleone,2023-07-14,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20230714095418id_/https://one.google.com/about/plans,1.99
+googleone,2023-10-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20231001011751id_/https://one.google.com/about,1.99
+googleone,2023-10-04,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20231004035300id_/https://one.google.com/about/plans,1.99
+googleone,2024-01-01,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20240101182346id_/https://one.google.com/about/plans,1.99
+googleone,2024-01-01,Basic,$1.99,https://one.google.com/about,https://web.archive.org/web/20240101003030id_/https://one.google.com/about,1.99
+googleone,2024-07-01,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20240701051335id_/https://one.google.com/about/plans,1.99
+googleone,2024-10-01,Basic,$1.99,https://one.google.com/about/plans,https://web.archive.org/web/20241001030605id_/https://one.google.com/about/plans,1.99
+googleone,2026-03-25,Basic,$1.99,https://one.google.com/about/plans?hl=en-IN,https://web.archive.org/web/20260325113903id_/https://one.google.com/about/plans?hl=en-IN,1.99
+googleone,2021-10-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20211001073639id_/https://one.google.com/about,9.99
+googleone,2021-10-02,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20211002014814id_/https://one.google.com/about/plans,9.99
+googleone,2022-01-01,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20220101235146id_/https://one.google.com/about/plans,9.99
+googleone,2022-01-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20220101011239id_/https://one.google.com/about,9.99
+googleone,2022-04-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20220401002221id_/https://one.google.com/about,9.99
+googleone,2022-04-02,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20220402005455id_/https://one.google.com/about/plans,9.99
+googleone,2022-07-01,Premium,€9.99,https://one.google.com/about/plans,https://web.archive.org/web/20220701032645id_/https://one.google.com/about/plans,9.99
+googleone,2022-07-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20220701013434id_/https://one.google.com/about,9.99
+googleone,2022-10-01,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20221001182625id_/https://one.google.com/about/plans,9.99
+googleone,2022-10-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20221001010429id_/https://one.google.com/about,9.99
+googleone,2023-01-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20230101020259id_/https://one.google.com/about,9.99
+googleone,2023-01-05,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20230105105720id_/https://one.google.com/about/plans,9.99
+googleone,2023-04-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20230401014613id_/https://one.google.com/about,9.99
+googleone,2023-04-02,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20230402185951id_/https://one.google.com/about/plans,9.99
+googleone,2023-07-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20230701002107id_/https://one.google.com/about,9.99
+googleone,2023-07-14,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20230714095418id_/https://one.google.com/about/plans,9.99
+googleone,2023-10-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20231001011751id_/https://one.google.com/about,9.99
+googleone,2023-10-04,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20231004035300id_/https://one.google.com/about/plans,9.99
+googleone,2024-01-01,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20240101182346id_/https://one.google.com/about/plans,9.99
+googleone,2024-01-01,Premium,$9.99,https://one.google.com/about,https://web.archive.org/web/20240101003030id_/https://one.google.com/about,9.99
+googleone,2024-07-01,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20240701051335id_/https://one.google.com/about/plans,9.99
+googleone,2024-10-01,Premium,$9.99,https://one.google.com/about/plans,https://web.archive.org/web/20241001030605id_/https://one.google.com/about/plans,9.99
+googleone,2026-03-25,Premium,$9.99,https://one.google.com/about/plans?hl=en-IN,https://web.archive.org/web/20260325113903id_/https://one.google.com/about/plans?hl=en-IN,9.99
+googleone,2021-10-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20211001073639id_/https://one.google.com/about,2.99
+googleone,2021-10-02,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20211002014814id_/https://one.google.com/about/plans,2.99
+googleone,2022-01-01,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20220101235146id_/https://one.google.com/about/plans,2.99
+googleone,2022-01-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20220101011239id_/https://one.google.com/about,2.99
+googleone,2022-04-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20220401002221id_/https://one.google.com/about,2.99
+googleone,2022-04-02,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20220402005455id_/https://one.google.com/about/plans,2.99
+googleone,2022-07-01,Standard,€2.99,https://one.google.com/about/plans,https://web.archive.org/web/20220701032645id_/https://one.google.com/about/plans,2.99
+googleone,2022-07-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20220701013434id_/https://one.google.com/about,2.99
+googleone,2022-10-01,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20221001182625id_/https://one.google.com/about/plans,2.99
+googleone,2022-10-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20221001010429id_/https://one.google.com/about,2.99
+googleone,2023-01-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20230101020259id_/https://one.google.com/about,2.99
+googleone,2023-01-05,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20230105105720id_/https://one.google.com/about/plans,2.99
+googleone,2023-04-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20230401014613id_/https://one.google.com/about,2.99
+googleone,2023-04-02,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20230402185951id_/https://one.google.com/about/plans,2.99
+googleone,2023-07-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20230701002107id_/https://one.google.com/about,2.99
+googleone,2023-07-14,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20230714095418id_/https://one.google.com/about/plans,2.99
+googleone,2023-10-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20231001011751id_/https://one.google.com/about,2.99
+googleone,2023-10-04,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20231004035300id_/https://one.google.com/about/plans,2.99
+googleone,2024-01-01,Standard,$2.99,https://one.google.com/about/plans,https://web.archive.org/web/20240101182346id_/https://one.google.com/about/plans,2.99
+googleone,2024-01-01,Standard,$2.99,https://one.google.com/about,https://web.archive.org/web/20240101003030id_/https://one.google.com/about,2.99
+microsoft365,2020-04-24,Basic,$5.00,https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200424095946id_/https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,5.0
+microsoft365,2020-05-18,Basic,₹ 125.00,https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200518160125id_/https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,125.0
+microsoft365,2020-04-24,Business Basic,$5.00,https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200424095946id_/https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,5.0
+microsoft365,2020-05-18,Business Basic,₹ 125.00,https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200518160125id_/https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,125.0
+microsoft365,2020-04-24,Business Premium,$5.00,https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200424095946id_/https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,5.0
+microsoft365,2020-05-18,Business Premium,₹ 125.00,https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200518160125id_/https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,125.0
+microsoft365,2020-04-24,Business Standard,$5.00,https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200424095946id_/https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,5.0
+microsoft365,2020-05-18,Business Standard,₹ 125.00,https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200518160125id_/https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,125.0
+microsoft365,2020-04-24,Family,$99.99,https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200424095946id_/https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,99.99
+microsoft365,2020-05-18,Family,"₹ 5,299.00",https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200518160125id_/https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,5299.0
+microsoft365,2020-10-31,Family,"₹ 4,199.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20201031173947id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4199.0
+microsoft365,2021-03-09,Family,"₹ 4,199.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20210309005611id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4199.0
+microsoft365,2021-04-21,Family,"₹ 4,899.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20210421031339id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4899.0
+microsoft365,2021-11-29,Family,"₹ 4,899.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20211129095554id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4899.0
+microsoft365,2020-04-24,Personal,$99.99,https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200424095946id_/https://www.microsoft.com/en-us/microsoft-365/compare-all-microsoft-365-products,99.99
+microsoft365,2020-05-05,Personal,$69.99,https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20200505150710id_/https://www.microsoft.com/en-us/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,69.99
+microsoft365,2020-05-18,Personal,"₹ 5,299.00",https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,https://web.archive.org/web/20200518160125id_/https://www.microsoft.com/en-in/microsoft-365/compare-all-microsoft-365-products,5299.0
+microsoft365,2020-10-31,Personal,"₹ 4,199.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20201031173947id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4199.0
+microsoft365,2021-03-09,Personal,"₹ 4,199.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20210309005611id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4199.0
+microsoft365,2021-04-21,Personal,"₹ 4,899.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20210421031339id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4899.0
+microsoft365,2021-11-29,Personal,"₹ 4,899.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20211129095554id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4899.0
+microsoft365,2022-05-17,Personal,"₹ 4,899.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20220517102431id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4899.0
+microsoft365,2022-07-01,Personal,"₹ 4,899.00",https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,https://web.archive.org/web/20220701080927id_/https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-personal/cfq7ttc0k5bf,4899.0
