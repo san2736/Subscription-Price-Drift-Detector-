@@ -1,2 +1,3 @@
 venv/
 .DS_Store
+aws/part1/dist/
