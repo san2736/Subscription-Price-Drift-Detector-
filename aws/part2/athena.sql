@@ -1,5 +1,5 @@
 -- Part 2 / Part 3 Athena setup. Run each statement separately in the Athena query editor
--- with workgroup pdd-workgroup selected. Replace pdd-yourname-data if your bucket differs.
+-- with workgroup pdd-workgroup selected. Replace pdd-snigdha-data if your bucket differs.
 
 -- 1. Database (Glue names use underscores, not hyphens)
 CREATE DATABASE IF NOT EXISTS pdd_db;
@@ -25,7 +25,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS pdd_db.prices (
   scraped_at    string
 )
 ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe'
-LOCATION 's3://pdd-yourname-data/exports/prices/';
+LOCATION 's3://pdd-snigdha-data/exports/prices/';
 
 -- 3. Check: one row per series, with its date range
 SELECT service, region, plan_name, count(*) AS observations,
@@ -60,7 +60,7 @@ CREATE EXTERNAL TABLE IF NOT EXISTS pdd_db.alerts (
   detected_at     string
 )
 ROW FORMAT SERDE 'org.openx.data.jsonserde.JsonSerDe'
-LOCATION 's3://pdd-yourname-data/exports/alerts/';
+LOCATION 's3://pdd-snigdha-data/exports/alerts/';
 
 -- 5. (Part 3) View QuickSight uses for the price chart: prices with any alert on that day
 CREATE OR REPLACE VIEW pdd_db.prices_with_alerts AS
