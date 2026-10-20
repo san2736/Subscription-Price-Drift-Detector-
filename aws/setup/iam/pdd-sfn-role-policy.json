@@ -1,0 +1,14 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "InvokeProjectLambdas",
+      "Effect": "Allow",
+      "Action": "lambda:InvokeFunction",
+      "Resource": [
+        "arn:aws:lambda:ap-south-1:111122223333:function:pdd-*",
+        "arn:aws:lambda:ap-south-1:111122223333:function:pdd-*:*"
+      ]
+    }
+  ]
+}
