@@ -62,7 +62,8 @@ previous section's "Done when" box is ticked. Names and shapes are in `CONTRACTS
 
 ## Part 3 — Detection & output — owner:
 
-- **Status:** [ ] done — date:
+- **Status:** [x] done — date:12.10.2026
+
 
 | Resource | Name | Notes |
 | --- | --- | --- |
