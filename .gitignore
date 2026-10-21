@@ -2,3 +2,4 @@ venv/
 .DS_Store
 build/
 aws/setup/iam/filled/
+aws/part1/dist/
