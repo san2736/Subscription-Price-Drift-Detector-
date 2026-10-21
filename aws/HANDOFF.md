@@ -25,23 +25,24 @@ previous section's "Done when" box is ticked. Names and shapes are in `CONTRACTS
 - **Done when:** [ ] all three teammates have signed in, set MFA and opened the bucket.
 ---
 
-## Part 1 — Ingestion — owner:
+## Part 1 — Ingestion — owner: Alisha
 
-- **Status:** [ ] done — date:
+- **Status:** [x] done — date: 2026-10-20
 
 | Resource | Name | Notes |
 | --- | --- | --- |
-| Layer | `pdd-scraping-deps` | |
-| Lambdas | `pdd-dispatcher`, `pdd-scraper` | |
-| Schedule | `pdd-daily-scrape` | |
+| Layer | `pdd-scraping-deps` | Version 1, ARN: `arn:aws:lambda:ap-south-1:778799435243:layer:pdd-scraping-deps:1` |
+| Lambdas | `pdd-dispatcher`, `pdd-scraper` | Python 3.12, role `pdd-lambda-role` |
+| Schedule | `pdd-daily-scrape` | `cron(0 6 * * ? *)` = 11:30 IST |
 
 - **Code:** `aws/part1/`
-- **How to test:** 
-- **Services that fail / are excluded and why:**
-- **Known issues:**
-- **Done when:** [ ] two scheduled runs in a row (10-minute test rate) wrote files for every service; CloudWatch shows no errors; rule is back on `cron(0 6 * * ? *)`.
+- **How to test:** Run the `all` test event on `pdd-dispatcher`, then check today's files under `raw/`.
+- **Services that fail / are excluded and why:** None failing. Only the six live services are scraped (netflix IN, icloud IN/US, apple_music IN/US, dropbox US). The other six are history only; Task 7 (adding them live) was skipped.
+- **Known issues:** `dropbox_US` now returns 4 plans (Basic, Plus, Standard, Advanced). Basic is new since 1 Oct, so Part 2 will see it as a new series with no history. No 403 blocks so far.
+- **Done when:** [x] two scheduled runs in a row (10-minute test rate) wrote files for every service; CloudWatch shows no errors; rule is back on `cron(0 6 * * ? *)`.
 
 ---
+
 
 ## Part 2 — Storage — owner: Snigdha
 
@@ -56,7 +57,7 @@ previous section's "Done when" box is ticked. Names and shapes are in `CONTRACTS
 
 - **Code:** `aws/part2/`
 - **How to test:** run `only-netflix` ({"only": ["netflix"]}) on `pdd-dispatcher`, then check the `pdd-parser` log for `items_written` above 0.
-- **Known issues:** Backfill loaded <FILES> files and <ITEMS> items. Dropbox US Basic is a new series with no history. `pdd-alerts` doesn't exist until Part 3, so export skips it for now. Test events are Private, so each person creates their own.
+- **Known issues:** Backfill loaded <FILES> files and <ITEMS> items; table holds 1,685 rows. Athena check query returns 81 series. Dropbox US Basic is a new series with no history. Test events are Private, so each person creates their own. Athena statements 4-5 are left for Part 3.
 - **Done when:** [x] table holds all history + a new daily row arrived on its own; an Athena query returns rows.
 
 ## Part 3 — Detection & output — owner:
