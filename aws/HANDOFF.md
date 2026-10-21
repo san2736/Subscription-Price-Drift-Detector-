@@ -43,23 +43,21 @@ previous section's "Done when" box is ticked. Names and shapes are in `CONTRACTS
 
 ---
 
-## Part 2 — Storage — owner:
+## Part 2 — Storage — owner: Snigdha
 
-- **Status:** [ ] done — date:
+- **Status:** [x] done — date: 2026-10-21
 
 | Resource | Name | Notes |
 | --- | --- | --- |
-| Table | `pdd-prices` | |
-| Lambdas | `pdd-parser`, `pdd-export` | |
-| Schedule | `pdd-daily-export` | |
-| Athena | `pdd_db.prices`, workgroup `pdd-workgroup` | |
+| Table | `pdd-prices` | partition `series`, sort `date`, on-demand |
+| Lambdas | `pdd-parser`, `pdd-export` | parser has S3 trigger on `raw/` + `.json` |
+| Schedule | `pdd-daily-export` | `cron(30 6 * * ? *)` = 12:00 IST |
+| Athena | `pdd_db.prices`, workgroup `pdd-workgroup` | results in `s3://pdd-snigdha-data/athena-results/` |
 
 - **Code:** `aws/part2/`
-- **How to test:**
-- **Known issues:**
-- **Done when:** [ ] table holds all history + a new daily row arrived on its own; an Athena query returns rows.
-
----
+- **How to test:** run `only-netflix` ({"only": ["netflix"]}) on `pdd-dispatcher`, then check the `pdd-parser` log for `items_written` above 0.
+- **Known issues:** Backfill loaded <FILES> files and <ITEMS> items. Dropbox US Basic is a new series with no history. `pdd-alerts` doesn't exist until Part 3, so export skips it for now. Test events are Private, so each person creates their own.
+- **Done when:** [x] table holds all history + a new daily row arrived on its own; an Athena query returns rows.
 
 ## Part 3 — Detection & output — owner:
 
